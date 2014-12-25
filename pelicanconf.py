@@ -20,14 +20,18 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
+LINKS = (('Intro to Programming',
+          'http://python-intro.readthedocs.org/en/latest/'),
          ('Jinja2', 'http://jinja.pocoo.org/'),
          ('You can modify those links in your config file', '#'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (
+    ('Linkedin', 'https://www.linkedin.com/profile/public-profile-settings?'
+                 'trk=prof-edit-edit-public_profile'),
+    ('Github', 'https://github.com/arachnegl'),
+    ('Twitter', 'https://twitter.com/arachnegl'),
+)
 
 DEFAULT_PAGINATION = 10
 
