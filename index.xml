@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>greg</title><link>https://arachnegl.github.io/</link><description>Recent content on greg</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 28 Sep 2022 15:40:51 +0200</lastBuildDate><atom:link href="https://arachnegl.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>My First Post</title><link>https://arachnegl.github.io/posts/my-first-post/</link><pubDate>Wed, 28 Sep 2022 15:40:51 +0200</pubDate><guid>https://arachnegl.github.io/posts/my-first-post/</guid><description>First post A kind of hello world you could say..
+Great start!!
+print(&amp;#34;some code here&amp;#34;)</description></item><item><title/><link>https://arachnegl.github.io/article1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://arachnegl.github.io/article1/</guid><description>Python Internals
+****************
+:date: 2014-12-19 19:48
+:update: 2014-12-20 9:52
+.. code-block:: python
+In [18]: import dis
+In [19]: dis.dis(lambda x: x + 2)
+1 0 LOAD_FAST 0 (x)
+3 LOAD_CONST 1 (2)</description></item></channel></rss>
