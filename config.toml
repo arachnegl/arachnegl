@@ -1,0 +1,4 @@
+baseURL = 'https://arachnegl.github.io'
+languageCode = 'en-us'
+title = 'greg'
+theme = "ananke"
